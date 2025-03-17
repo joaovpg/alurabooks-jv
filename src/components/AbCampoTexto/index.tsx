@@ -44,7 +44,9 @@ export const AbCampoTexto = ({
       <InputEstilizado
         type={type}
         value={value}
-        onChange={(event) => onChange(event.target.value)}
+        onChange={(event: React.ChangeEvent<HTMLInputElement>) =>
+          onChange(event.target.value)
+        }
       />
     </div>
   );
