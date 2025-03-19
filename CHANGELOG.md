@@ -1,3 +1,16 @@
+# v0.2.4 (Wed Mar 19 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/joaovpg/alurabooks-jv ([@joaovpg](https://github.com/joaovpg))
+- adicionando componente de modal ([@joaovpg](https://github.com/joaovpg))
+
+#### Authors: 1
+
+- João Victor Gomes ([@joaovpg](https://github.com/joaovpg))
+
+---
+
 # v0.2.3 (Mon Mar 17 2025)
 
 #### ⚠️ Pushed to `main`
